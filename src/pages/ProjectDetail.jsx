@@ -1,6 +1,6 @@
 import { useParams } from 'react-router-dom';
 import PageHero from '../components/ui/PageHero';
-import projects from '../data/projects';
+import projects from '../data/Projects';
 
 export default function ProjectDetail() {
   const { slug } = useParams();
