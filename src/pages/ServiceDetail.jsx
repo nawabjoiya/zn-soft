@@ -1,7 +1,7 @@
 import { useParams } from 'react-router-dom';
 import PageHero from '../components/ui/PageHero';
 import AnimateIn from '../components/animation/AnimateIn';
-import services from '../data/services';
+import services from '../data/Services';
 
 export default function ServiceDetail() {
   const { slug } = useParams();
