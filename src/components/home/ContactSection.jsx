@@ -9,7 +9,7 @@ const SUBJECTS = [
 ];
 
 export default function ContactSection({
-  videoUrl = "https://www.youtube.com/watch?v=Get7rqXYrbQ",
+  videoUrl = "#",
 }) {
   const [form, setForm] = useState({
     name: "",
@@ -53,7 +53,7 @@ export default function ContactSection({
         className="absolute inset-0 -z-10 bg-cover bg-center bg-no-repeat opacity-40 mix-blend-luminosity"
         style={{
           backgroundImage:
-            "url('/assets/images/backgrounds/contact-one-bg.jpg')",
+            "url('/assets/images/backgrounds/team-one-bg.jpg')",
         }}
       />
 

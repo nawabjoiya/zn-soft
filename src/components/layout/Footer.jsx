@@ -116,7 +116,7 @@ export default function Footer() {
               Call Anytime
               <br />
               <span className="font-semibold text-white">
-                +92 300 1234567
+                +92 3029124692
               </span>
             </p>
           </StaggerItem>

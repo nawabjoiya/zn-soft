@@ -49,10 +49,10 @@ export default function TopBar() {
           <li className="flex items-center gap-2">
             <FaPhone className="text-brand" />
             <a
-              href="tel:+923001234567"
+              href="tel:+923209124692"
               className="transition-colors hover:text-brand"
             >
-              +92 300 1234567
+              +92 3209124692
             </a>
           </li>
 
